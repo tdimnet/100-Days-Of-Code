@@ -31,3 +31,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** It is hard to add the proper style to a dropdown menu (I have to use relative and absolute positionning). ChartJS seems to be quite simple to use however.
 
 **Link to Work:** [Web App Dashboard](https://github.com/tdimnet/Web-App-Dashboard)
+
+
+### Day 4: January 6. Friday
+
+**Today's Progress:** Implemented my first chart element with ChartJS and Canvas and added styles on it. Worked with canvas for the construction of the layout. However it seems that I need a trick in order to integrate multiple Chart element on a same page.
+
+**Thoughts:** I have the feeling to be on a roll even though I encounter difficulties from time to time: this is such a great feeling :D!
+
+**Link to Work:** [Web App Dashboard](https://github.com/tdimnet/Web-App-Dashboard)
