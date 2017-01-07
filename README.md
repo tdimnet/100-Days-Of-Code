@@ -40,3 +40,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** I have the feeling to be on a roll even though I encounter difficulties from time to time: this is such a great feeling :D!
 
 **Link to Work:** [Web App Dashboard](https://github.com/tdimnet/Web-App-Dashboard)
+
+
+### Day 5: January 7. Saturday
+
+**Today's Progress:** Add two new chart elements to the page: a bar chart and a doughnut chart. It seems they work fine for now. Also add the next section which represents a social network dashboard: add the basic style to this section especially the layout and the color of these free elements.
+
+**Thoughts:** I usually work in the morning but I was not at home today. So I have decided to work this evening and I was no sure to be fully concentrated. It was the case (coool) even though I think I would have been more efficient in the morning ;)
+
+**Link to Work:** [Web App Dashboard](https://github.com/tdimnet/Web-App-Dashboard)
