@@ -49,3 +49,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** I usually work in the morning but I was not at home today. So I have decided to work this evening and I was no sure to be fully concentrated. It was the case (coool) even though I think I would have been more efficient in the morning ;)
 
 **Link to Work:** [Web App Dashboard](https://github.com/tdimnet/Web-App-Dashboard)
+
+
+### Day 6: January 8. Saturday
+
+**Today's Progress:** Tried to add the three svgs elements and had not figured how it would work. Start adding the new container for the new members & the activity member: add the very first styles to both elements.
+
+**Thoughts:** A bit frustrated! I have been blocked on svg elements and their relative parents elements. Did not understand why I can properly add a border radius .. :/
+
+**Link to Work:** [Web App Dashboard](https://github.com/tdimnet/Web-App-Dashboard)
