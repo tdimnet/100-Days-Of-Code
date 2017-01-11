@@ -76,3 +76,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** Youhou, this is my first week! Seriously everything I have done this morning seems to have worked just fine: it is a very cool feeling and I think this project is almost done!
 
 **Link to Work:** [Web App Dashboard](https://github.com/tdimnet/Web-App-Dashboard)
+
+
+### Day 9: January 11. Wednesday
+
+**Today's Progress:** Work on the layout for tablet devices and start setting up the layout for desktop devices. I still have some issues but it starts taking shape :)!
+
+**Thoughts:** I am tired and it was hard to be completely focused at the at the beginning. However my work is going on and I will end this project soon.
+
+**Link to Work:** [Web App Dashboard](https://github.com/tdimnet/Web-App-Dashboard)
