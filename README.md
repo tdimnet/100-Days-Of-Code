@@ -85,3 +85,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** I am tired and it was hard to be completely focused at the at the beginning. However my work is going on and I will end this project soon.
 
 **Link to Work:** [Web App Dashboard](https://github.com/tdimnet/Web-App-Dashboard)
+
+
+### Day 10: January 12. Wednesday
+
+**Today's Progress:** Hard time to work with svgs icons especially when I need to resize them. I will have some good and nice refactoring to do!
+
+**Thoughts:** It was not my best session ever. I am a little disappointed of myself: I have the feeling I have lost my time today :(.
+
+**Link to Work:** [Web App Dashboard](https://github.com/tdimnet/Web-App-Dashboard)
