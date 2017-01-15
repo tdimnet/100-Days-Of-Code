@@ -103,3 +103,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** The project is 70% over and I have now to work on my details. I never know if I like or hate this part: making small improvements is a great work but it also takes times. I think this project will be over at the end of the week-end!
 
 **Link to Work:** [Web App Dashboard](https://github.com/tdimnet/Web-App-Dashboard)
+
+
+### Day 12: January 14. Saturday
+
+**Today's Progress:** Nothing, I have not worked on my programs today.
+
+**Thoughts:** I think I just need some rest :).
+
+**Link to Work:**
