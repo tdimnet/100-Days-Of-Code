@@ -112,3 +112,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** I think I just need some rest :).
 
 **Link to Work:**
+
+
+### Day 13: January 15. Sunday
+
+**Today's Progress:** Start refactoring my work with sass. For now everything is working great and I do not have a lot of issues. I have also created a new branch for my work.
+
+**Thoughts:** Why do I not work with Sass more often? For simple but nice websites, it is not completely useful but for larger websites with a lot of layout rules, it helps so much!
+
+**Link to Work:** [Web App Dashboard](https://github.com/tdimnet/Web-App-Dashboard)
