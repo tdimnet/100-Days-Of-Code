@@ -128,6 +128,15 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 
 **Today's Progress:** Great work with the sass refactoring of the project. I have discovered some issues and I think I'll work on it also this evening and not only this morning.
 
-**Thoughts:** I do love refactoring! However I have to confince myself that I am not losing my time by doing it. 
+**Thoughts:** I do love refactoring! However I have to confince myself that I am not losing my time by doing it.
+
+**Link to Work:** [Web App Dashboard](https://github.com/tdimnet/Web-App-Dashboard)
+
+
+### Day 15: January 17. Tuesday
+
+**Today's Progress:** Continue refactoring the site with Sass and working with SVGs. There are now five SVG icons for social medias and they are displaying great on mobile devices.
+
+**Thoughts:** I have understood something important with SVG and this is great! And once again, I have seen how much I love working with Sass.
 
 **Link to Work:** [Web App Dashboard](https://github.com/tdimnet/Web-App-Dashboard)
