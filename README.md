@@ -140,3 +140,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** I have understood something important with SVG and this is great! And once again, I have seen how much I love working with Sass.
 
 **Link to Work:** [Web App Dashboard](https://github.com/tdimnet/Web-App-Dashboard)
+
+
+### Day 16: January 18. Wednesday
+
+**Today's Progress:** Finish refactoring the mobile version with Sass and start making some nice improvements. Add also buttons and input transitions.
+
+**Thoughts:** Just an ordinary day of code :). I am working hard to make this work and I like the result: it is a pretty cool feeling!
+
+**Link to Work:** [Web App Dashboard](https://github.com/tdimnet/Web-App-Dashboard)
