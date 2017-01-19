@@ -149,3 +149,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** Just an ordinary day of code :). I am working hard to make this work and I like the result: it is a pretty cool feeling!
 
 **Link to Work:** [Web App Dashboard](https://github.com/tdimnet/Web-App-Dashboard)
+
+
+### Day 17: January 19. Thursday
+
+**Today's Progress:** Adding Toggle Switch at the bottom of the page and import the chart elements. Everything is now perfect for the mobile version, I can start working on tablet and desktop devices.
+
+**Thoughts:** Everything is OK! I have understood how to make some nice Toggle Switch thanks to W3C Schools. Here is the link if you want to have a look [Toggle Switch Buttons](http://www.w3schools.com/howto/howto_css_switch.asp)
+
+**Link to Work:** [Web App Dashboard](https://github.com/tdimnet/Web-App-Dashboard)
