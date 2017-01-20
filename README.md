@@ -158,3 +158,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** Everything is OK! I have understood how to make some nice Toggle Switch thanks to W3C Schools. Here is the link if you want to have a look [Toggle Switch Buttons](http://www.w3schools.com/howto/howto_css_switch.asp)
 
 **Link to Work:** [Web App Dashboard](https://github.com/tdimnet/Web-App-Dashboard)
+
+
+### Day 18: January 20. Friday
+
+**Today's Progress:** Make improvements for the tablet devices by adding new styles and new layouts. I have not seen any bugs yet. Once I am done with the layout refactoring, I will have some nice changes to do with the JavaScript.
+
+**Thoughts:** I am starting to get the point of this project. As always, I find it very interesting and it makes me ask questions to myself about how I should organize my code and how could I improve my work flow. That's so nice!
+
+**Link to Work:** [Web App Dashboard](https://github.com/tdimnet/Web-App-Dashboard)
