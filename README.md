@@ -167,3 +167,15 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** I am starting to get the point of this project. As always, I find it very interesting and it makes me ask questions to myself about how I should organize my code and how could I improve my work flow. That's so nice!
 
 **Link to Work:** [Web App Dashboard](https://github.com/tdimnet/Web-App-Dashboard)
+
+
+### Day 19: January 21. Saturday : No code for this day.
+
+
+### Day 20: January 22. Sunday
+
+**Today's Progress:** Finish styling the desktop layout. Have some issues with the layout which have to be fixed soon. The project should be over between Tuesday and Wednesday.
+
+**Thoughts:** I am trying to work on my Treehouse's projet at night and not in the morning. I do not know if I will be more efficient but I want to try this :).
+
+**Link to Work:** [Web App Dashboard](https://github.com/tdimnet/Web-App-Dashboard)
