@@ -179,3 +179,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** I am trying to work on my Treehouse's projet at night and not in the morning. I do not know if I will be more efficient but I want to try this :).
 
 **Link to Work:** [Web App Dashboard](https://github.com/tdimnet/Web-App-Dashboard)
+
+
+### Day 21: January 23. Monday
+
+**Today's Progress:** Start working on the new Techdegree's project. I have created the new repository and start looking at the documentation of the OMDb. I do not fully understand how it works.
+
+**Thoughts:** A bit frustrated but that's ok. Also a bit focused on my goals and how to work with this API. 
+
+**Link to Work:** [Use a Public API to Create a Gallery](https://github.com/tdimnet/Use-a-Public-API-to-Create-a-Gallery)
