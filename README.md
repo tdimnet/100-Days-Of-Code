@@ -185,6 +185,16 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 
 **Today's Progress:** Start working on the new Techdegree's project. I have created the new repository and start looking at the documentation of the OMDb. I do not fully understand how it works.
 
-**Thoughts:** A bit frustrated but that's ok. Also a bit focused on my goals and how to work with this API. 
+**Thoughts:** A bit frustrated but that's ok. Also a bit focused on my goals and how to work with this API.
 
+**Link to Work:** [Use a Public API to Create a Gallery](https://github.com/tdimnet/Use-a-Public-API-to-Create-a-Gallery)
+
+
+### Day 22: January 24. Tuesday
+
+**Today's Progress:** Big day today! I have finally finished the ninth Techdegree project and I have submitted it! I have also continued working on the tenth Techdegree project and I have made it work! When the form is submitted, a Gallery of movie posters pops up!
+
+**Thoughts:** I can finally breathe! Ok, I am starting to be anxious for the final exam but that's cool :). I am also very happy because I understand pretty well (I hope) how AJAX works :D.
+
+**Link to Work:** [Web App Dashboard](https://github.com/tdimnet/Web-App-Dashboard)
 **Link to Work:** [Use a Public API to Create a Gallery](https://github.com/tdimnet/Use-a-Public-API-to-Create-a-Gallery)
