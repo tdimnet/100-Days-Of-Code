@@ -198,3 +198,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 
 **Link to Work:** [Web App Dashboard](https://github.com/tdimnet/Web-App-Dashboard)
 **Link to Work:** [Use a Public API to Create a Gallery](https://github.com/tdimnet/Use-a-Public-API-to-Create-a-Gallery)
+
+
+### Day 23: January 25. Wednesday
+
+**Today's Progress:** Start designing and coding the layout of the Gallery. It works almost fine for every devices (from mobile to desktop). I still have some slight issues but it is almost done. Also work with AJAX and JavaScript and display movie posters on the screen.
+
+**Thoughts:** I was always asking myself what is the difference between two methods of event handling in JavaScript. The .click method (e.g.: I want to click a button or an image) and the .on method. Thanks to AJAX, I think I got it!
+
+**Link to Work:** [Use a Public API to Create a Gallery](https://github.com/tdimnet/Use-a-Public-API-to-Create-a-Gallery)
