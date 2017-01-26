@@ -207,3 +207,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** I was always asking myself what is the difference between two methods of event handling in JavaScript. The .click method (e.g.: I want to click a button or an image) and the .on method. Thanks to AJAX, I think I got it!
 
 **Link to Work:** [Use a Public API to Create a Gallery](https://github.com/tdimnet/Use-a-Public-API-to-Create-a-Gallery)
+
+
+### Day 24: January 26. Tuesday
+
+**Today's Progress:** Just some small changes with the layout desktop and start planning the solution which will help me to display the image information.
+
+**Thoughts:** Have some difficulties to plan my solution correctly. I have some ideas but I do not know if they are good or not. I need to test them :).
+
+**Link to Work:** [Use a Public API to Create a Gallery](https://github.com/tdimnet/Use-a-Public-API-to-Create-a-Gallery)
