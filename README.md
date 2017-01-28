@@ -218,10 +218,19 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Link to Work:** [Use a Public API to Create a Gallery](https://github.com/tdimnet/Use-a-Public-API-to-Create-a-Gallery)
 
 
-### Day 24: January 27. Friday
+### Day 25: January 27. Friday
 
 **Today's Progress:** Make the second AJAX Request according to the image clicked and make the image appears in an overlay.
 
 **Thoughts:** It was easier than I thought I would be :). I need to finish styling the overlay and have to keep in mind that I have to create some new callback functions.
+
+**Link to Work:** [Use a Public API to Create a Gallery](https://github.com/tdimnet/Use-a-Public-API-to-Create-a-Gallery)
+
+
+### Day 26: January 28. Saturday
+
+**Today's Progress:** Continue styling the movie description by creating an unordered list of movie item information.  
+
+**Thoughts:** Hey, it's Saturday, it's ten'o clock and I'm 'already' in front of my screens :D. Anyway, I'm fine (good for me! ^^) and I understand how AJAX Request works. I think I need to refactore my code a bit but I will do that on Monday or Tuesday :).
 
 **Link to Work:** [Use a Public API to Create a Gallery](https://github.com/tdimnet/Use-a-Public-API-to-Create-a-Gallery)
