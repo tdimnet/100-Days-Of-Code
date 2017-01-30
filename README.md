@@ -234,3 +234,21 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** Hey, it's Saturday, it's ten'o clock and I'm 'already' in front of my screens :D. Anyway, I'm fine (good for me! ^^) and I understand how AJAX Request works. I think I need to refactore my code a bit but I will do that on Monday or Tuesday :).
 
 **Link to Work:** [Use a Public API to Create a Gallery](https://github.com/tdimnet/Use-a-Public-API-to-Create-a-Gallery)
+
+
+### Day 27: January 29. Sunday
+
+**Today's Progress:** I went out all the day and I came home very late. I haven't coded this day.
+
+**Thoughts:**
+
+**Link to Work:**
+
+
+### Day 28: January 30. Monday
+
+**Today's Progress:** Finish the project: the gallery is now working with AJAX without any problems.  
+
+**Thoughts:** I have been a bit lazy and I have not tried to integrate a second API for this project: bouhhhhhhhhh :(.
+
+**Link to Work:** [Use a Public API to Create a Gallery](https://github.com/tdimnet/Use-a-Public-API-to-Create-a-Gallery)
