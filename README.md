@@ -252,3 +252,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** I have been a bit lazy and I have not tried to integrate a second API for this project: bouhhhhhhhhh :(.
 
 **Link to Work:** [Use a Public API to Create a Gallery](https://github.com/tdimnet/Use-a-Public-API-to-Create-a-Gallery)
+
+
+### Day 29: January 31. Tuesday
+
+**Today's Progress:** Start the project and start adding some modifications in order to optimize the website.
+
+**Thoughts:** I have discovered the project and started makinng improvements :). I think I understand how it works!
+
+**Link to Work:** [Optimizing a Site for Performance](https://github.com/tdimnet/Optimizing-a-Site-for-Performance)
