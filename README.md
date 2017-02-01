@@ -261,3 +261,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** I have discovered the project and started makinng improvements :). I think I understand how it works!
 
 **Link to Work:** [Optimizing a Site for Performance](https://github.com/tdimnet/Optimizing-a-Site-for-Performance)
+
+
+### Day 30: February 1. Wednesday
+
+**Today's Progress:** I haven't go the time to check the gulp courses because of my bachelor work. So I have decided to continue coding my algorithm exercises. I have already done eight exercises :).
+
+**Thoughts:** For now I am "playing" with really basic algorithm tasks. So i am not really stuck. I hope I will be with advanced algorithm exercises :D.
+
+**Link to Work:** [Algorithm Work](https://github.com/tdimnet/Algorithm-Work)
