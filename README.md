@@ -270,3 +270,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** For now I am "playing" with really basic algorithm tasks. So i am not really stuck. I hope I will be with advanced algorithm exercises :D.
 
 **Link to Work:** [Algorithm Work](https://github.com/tdimnet/Algorithm-Work)
+
+
+### Day 31: February 2. Thursday
+
+**Today's Progress:** Continue working on my algorithm exercise. I have just done one to day :(.
+
+**Thoughts:** I have a project to finish so it is hard to find the time. But it will be OK (I hope ^^').
+
+**Link to Work:** [Algorithm Work](https://github.com/tdimnet/Algorithm-Work)
