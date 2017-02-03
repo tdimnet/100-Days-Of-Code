@@ -279,3 +279,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** I have a project to finish so it is hard to find the time. But it will be OK (I hope ^^').
 
 **Link to Work:** [Algorithm Work](https://github.com/tdimnet/Algorithm-Work)
+
+
+### Day 32: February 3. Friday
+
+**Today's Progress:** Algorithm exercise and algorithm exercise and algorithm exercise. It's cool and I am going pretty fast on them.
+
+**Thoughts:** Because of my projetcs, I still did not have the time to look for Gulp and front-end optimization. However the good thing: I have started my last Techdegree project ;) !
+
+**Link to Work:** [Algorithm Work](https://github.com/tdimnet/Algorithm-Work)
