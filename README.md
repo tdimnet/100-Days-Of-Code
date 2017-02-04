@@ -288,3 +288,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** Because of my projetcs, I still did not have the time to look for Gulp and front-end optimization. However the good thing: I have started my last Techdegree project ;) !
 
 **Link to Work:** [Algorithm Work](https://github.com/tdimnet/Algorithm-Work)
+
+
+### Day 33: February 4. Saturday
+
+**Today's Progress:** Install gulp with npm and then install gulp dependencies in order to concat and minify my JS files.
+
+**Thoughts:** I am cool, that's cool, every body is cool! Seriously, I have made so great progress with js workflow so far and in a way, I am proud of me.
+
+**Link to Work:** [Optimizing a Site for Performance](https://github.com/tdimnet/Optimizing-a-Site-for-Performance)
