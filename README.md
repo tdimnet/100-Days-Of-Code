@@ -297,3 +297,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** I am cool, that's cool, every body is cool! Seriously, I have made so great progress with js workflow so far and in a way, I am proud of me.
 
 **Link to Work:** [Optimizing a Site for Performance](https://github.com/tdimnet/Optimizing-a-Site-for-Performance)
+
+
+### Day 34: February 5. Sunday
+
+**Today's Progress:** Add new gulp dependencies and continue optimizing the website by decreazing the weight of images and adding inside html svgs.
+
+**Thoughts:** The website is starting to take shape and I have done great job so far :).
+
+**Link to Work:** [Optimizing a Site for Performance](https://github.com/tdimnet/Optimizing-a-Site-for-Performance)
