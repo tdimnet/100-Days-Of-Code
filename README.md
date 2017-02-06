@@ -306,3 +306,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** The website is starting to take shape and I have done great job so far :).
 
 **Link to Work:** [Optimizing a Site for Performance](https://github.com/tdimnet/Optimizing-a-Site-for-Performance)
+
+
+### Day 35: February 6. Monday
+
+**Today's Progress:** Add automation to the building process by adding new tasks and callback functions.
+
+**Thoughts:** Hi, I am almost done with my Techdegree!!
+
+**Link to Work:** [Optimizing a Site for Performance](https://github.com/tdimnet/Optimizing-a-Site-for-Performance)
