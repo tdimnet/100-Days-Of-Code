@@ -315,3 +315,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** Hi, I am almost done with my Techdegree!!
 
 **Link to Work:** [Optimizing a Site for Performance](https://github.com/tdimnet/Optimizing-a-Site-for-Performance)
+
+
+### Day 36: February 7. Tuesday
+
+**Today's Progress:** Finish working on the optimization and submit the project.
+
+**Thoughts:** I am starting my last project with Treehouse!
+
+**Link to Work:** [Optimizing a Site for Performance](https://github.com/tdimnet/Optimizing-a-Site-for-Performance)
