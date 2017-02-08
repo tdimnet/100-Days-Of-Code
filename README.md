@@ -324,3 +324,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** I am starting my last project with Treehouse!
 
 **Link to Work:** [Optimizing a Site for Performance](https://github.com/tdimnet/Optimizing-a-Site-for-Performance)
+
+
+### Day 37: February 8. Wednesday
+
+**Today's Progress:** Work on my last treehouse project and finish the mockup for desktop devices.
+
+**Thoughts:** It is hard to communicate on ourselves but I hope my portfolio will look great!
+
+**Link to Work:** [Online Portfolio](https://github.com/tdimnet/tdimnet.github.io)
