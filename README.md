@@ -333,3 +333,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** It is hard to communicate on ourselves but I hope my portfolio will look great!
 
 **Link to Work:** [Online Portfolio](https://github.com/tdimnet/tdimnet.github.io)
+
+
+### Day 38: February 9. Thursday
+
+**Today's Progress:** Still work on my portfolio by working on the wireframes and retrieving good resources to use.
+
+**Thoughts:** I try to organize my work in order to code with the more efficient way I could.
+
+**Link to Work:** [Online Portfolio](https://github.com/tdimnet/tdimnet.github.io)
