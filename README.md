@@ -351,3 +351,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** Nothing :D.
 
 **Link to Work:** [Online Portfolio](https://github.com/tdimnet/tdimnet.github.io)
+
+
+### Day 40: February 11. Saturday
+
+**Today's Progress:** Header is now ok for mobile layouts. Also toggle some animation with JavaScript. I need to implement the canvas element.
+
+**Thoughts:** Focus: I have prepared all my ressources needed. I have some questions about colors however :/
+
+**Link to Work:** [Online Portfolio](https://github.com/tdimnet/tdimnet.github.io)
