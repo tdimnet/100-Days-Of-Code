@@ -342,3 +342,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** I try to organize my work in order to code with the more efficient way I could.
 
 **Link to Work:** [Online Portfolio](https://github.com/tdimnet/tdimnet.github.io)
+
+
+### Day 39: February 10. Friday
+
+**Today's Progress:** Start coding my portfolio by adding all the projects required and start styling the header.
+
+**Thoughts:** Nothing :D.
+
+**Link to Work:** [Online Portfolio](https://github.com/tdimnet/tdimnet.github.io)
