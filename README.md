@@ -360,3 +360,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** Focus: I have prepared all my ressources needed. I have some questions about colors however :/
 
 **Link to Work:** [Online Portfolio](https://github.com/tdimnet/tdimnet.github.io)
+
+
+### Day 41: February 12. Sunday
+
+**Today's Progress:** Fix the header for all devices including tablet and desktop. Start styling the branding container.
+
+**Thoughts:** I have seen some issues with the layout. I think I have still things to learn with flex layouts :).
+
+**Link to Work:** [Online Portfolio](https://github.com/tdimnet/tdimnet.github.io)
