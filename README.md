@@ -369,3 +369,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** I have seen some issues with the layout. I think I have still things to learn with flex layouts :).
 
 **Link to Work:** [Online Portfolio](https://github.com/tdimnet/tdimnet.github.io)
+
+
+### Day 42: February 13. Monday
+
+**Today's Progress:** A lot of progress today :). It starts taking a really good shape! I have had a lot of JavaScript :).
+
+**Thoughts:** I think it will be finish this week! Youhou!!!!!!
+
+**Link to Work:** [Online Portfolio](https://github.com/tdimnet/tdimnet.github.io)
