@@ -378,3 +378,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** I think it will be finish this week! Youhou!!!!!!
 
 **Link to Work:** [Online Portfolio](https://github.com/tdimnet/tdimnet.github.io)
+
+
+### Day 43: February 14. Tuesday
+
+**Today's Progress:** With a good night, I have reviewed my project. Even though I have a lot of things within, I think I am going to make some small changes.
+
+**Thoughts:** I hope I will finish and submit my project this week-end.
+
+**Link to Work:** [Online Portfolio](https://github.com/tdimnet/tdimnet.github.io)
