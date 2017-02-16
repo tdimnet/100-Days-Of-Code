@@ -396,3 +396,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** How do you eat an elephant? One bite at a time :).
 
 **Link to Work:** [Online Portfolio](https://github.com/tdimnet/tdimnet.github.io)
+
+
+### Day 45: February 16. Thursday
+
+**Today's Progress:** I have tried to add some new functionnalities but It has not worked :(.
+
+**Thoughts:** Frustrated and tired :/.
+
+**Link to Work:** [Online Portfolio](https://github.com/tdimnet/tdimnet.github.io)
