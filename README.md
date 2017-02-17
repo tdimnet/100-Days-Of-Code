@@ -405,3 +405,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** Frustrated and tired :/.
 
 **Link to Work:** [Online Portfolio](https://github.com/tdimnet/tdimnet.github.io)
+
+
+### Day 46: February 17. Friday
+
+**Today's Progress:** Continue styling and adding functionnalities with JS.
+
+**Thoughts:** I have received an e-mail from treehouse today telling me that I was working on my last project :).
+
+**Link to Work:** [Online Portfolio](https://github.com/tdimnet/tdimnet.github.io)
