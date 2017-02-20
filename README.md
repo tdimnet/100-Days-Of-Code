@@ -414,3 +414,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** I have received an e-mail from treehouse today telling me that I was working on my last project :).
 
 **Link to Work:** [Online Portfolio](https://github.com/tdimnet/tdimnet.github.io)
+
+
+### Day 47: February 20. Monday
+
+**Today's Progress:** Finish styling the layout, refactore the Sass partial files and add all images to the project.
+
+**Thoughts:** After two days without touching my computer, I have made some great progress today. I am making the final adjustments before submitting the project tomorrow evening.
+
+**Link to Work:** [Online Portfolio](https://github.com/tdimnet/tdimnet.github.io)
