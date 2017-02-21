@@ -423,3 +423,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** After two days without touching my computer, I have made some great progress today. I am making the final adjustments before submitting the project tomorrow evening.
 
 **Link to Work:** [Online Portfolio](https://github.com/tdimnet/tdimnet.github.io)
+
+
+### Day 48: February 21. Tuesday
+
+**Today's Progress:** I have made the final changes to my final Treehouse's project and I have submitted it.
+
+**Thoughts:** Treehouse's Techdegree is coming to an end :).
+
+**Link to Work:** [Online Portfolio](https://github.com/tdimnet/tdimnet.github.io)
