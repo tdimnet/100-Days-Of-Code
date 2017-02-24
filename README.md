@@ -441,3 +441,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** How, I do not have a lot of work to do these days. It is a bit strange.
 
 **Link to Work:** [Algorithm Work](https://github.com/tdimnet/Algorithm-Work)
+
+
+### Day 50: February 24. Friday
+
+**Today's Progress:** Start a small app with angularJS V2 and have encountered some nice problems with relative windows' paths :D
+
+**Thoughts:** Ok, I have my next goal! Build an angularJS App !!!
+
+**Link to Work:** 
