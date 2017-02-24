@@ -432,3 +432,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** Treehouse's Techdegree is coming to an end :).
 
 **Link to Work:** [Online Portfolio](https://github.com/tdimnet/tdimnet.github.io)
+
+
+### Day 49: February 23. Thursday
+
+**Today's Progress:** I have worked on some algorithm challenges. I have not a big project started yet..
+
+**Thoughts:** How, I do not have a lot of work to do these days. It is a bit strange.
+
+**Link to Work:** [Algorithm Work](https://github.com/tdimnet/Algorithm-Work)
