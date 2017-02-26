@@ -449,4 +449,13 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 
 **Thoughts:** Ok, I have my next goal! Build an angularJS App !!!
 
-**Link to Work:** 
+**Link to Work:**
+
+
+### Day 51: February 26. Sunday
+
+**Today's Progress:** Play with Angular directives inside my school project.
+
+**Thoughts:** Well, I am learning AngularJS V2 and this is cool. However, I am not ready to start an Angular project right now and I haven't project to work with.. :/
+
+**Link to Work:**
