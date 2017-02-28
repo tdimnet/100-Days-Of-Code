@@ -459,3 +459,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** Well, I am learning AngularJS V2 and this is cool. However, I am not ready to start an Angular project right now and I haven't project to work with.. :/
 
 **Link to Work:**
+
+
+### Day 52: February 28. Tuesday
+
+**Today's Progress:** After being graduated with treehouse, I changed some elements withing my portfolio.
+
+**Thoughts:** Treehouse's Techdegree is now done!!!!.
+
+**Link to Work:** [Online Portfolio](https://github.com/tdimnet/tdimnet.github.io)
