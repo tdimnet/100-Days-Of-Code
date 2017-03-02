@@ -468,3 +468,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** Treehouse's Techdegree is now done!!!!.
 
 **Link to Work:** [Online Portfolio](https://github.com/tdimnet/tdimnet.github.io)
+
+
+### Day 53: March 2. Thursday
+
+**Today's Progress:** I finally start a new project with treehouse with my new Techdegree: the full stack javascript Techdegree. My first job is to create a random quote generator.
+
+**Thoughts:** Ok, a lot of projects have been done lately. I am really happy to start a new Techdegree and I am looking forward to finish it well :).
+
+**Link to Work:** [Random-Quote-Generator](https://github.com/tdimnet/Random-Quote-Generator)
