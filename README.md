@@ -477,3 +477,11 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** Ok, a lot of projects have been done lately. I am really happy to start a new Techdegree and I am looking forward to finish it well :).
 
 **Link to Work:** [Random-Quote-Generator](https://github.com/tdimnet/Random-Quote-Generator)
+
+### Day 53: March 3. Friday
+
+**Today's Progress:** Hahaha I had some troubles with JavaScript and its scope behavior. But I made some great progress today
+
+**Thoughts:** Not a really useful day but that's ok :)
+
+**Link to Work:** [Random-Quote-Generator](https://github.com/tdimnet/Random-Quote-Generator)
