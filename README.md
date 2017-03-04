@@ -478,10 +478,20 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 
 **Link to Work:** [Random-Quote-Generator](https://github.com/tdimnet/Random-Quote-Generator)
 
-### Day 53: March 3. Friday
 
-**Today's Progress:** Hahaha I had some troubles with JavaScript and its scope behavior. But I made some great progress today
+### Day 54: March 3. Friday
+
+**Today's Progress:** Hahaha I had some troubles with JavaScript and its scope behavior. But I made some great progress today!
 
 **Thoughts:** Not a really useful day but that's ok :)
+
+**Link to Work:** [Random-Quote-Generator](https://github.com/tdimnet/Random-Quote-Generator)
+
+
+### Day 55: March 4. Saturday
+
+**Today's Progress:** Continue working on the random quote project. The quote and its relative elements are now changing on the show another quote button is clicked.
+
+**Thoughts:** I have learned something today => with the querySelector method, I can target not only HTML elements but also classes!
 
 **Link to Work:** [Random-Quote-Generator](https://github.com/tdimnet/Random-Quote-Generator)
