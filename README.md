@@ -495,3 +495,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** I have learned something today => with the querySelector method, I can target not only HTML elements but also classes!
 
 **Link to Work:** [Random-Quote-Generator](https://github.com/tdimnet/Random-Quote-Generator)
+
+
+### Day 56: March 5. Sunday
+
+**Today's Progress:** Change the background color for the code & fix the bugs found during programming.
+
+**Thoughts:** Well, I think I am getting used with this project :) even though I have still work to do!
+
+**Link to Work:** [Random-Quote-Generator](https://github.com/tdimnet/Random-Quote-Generator)
