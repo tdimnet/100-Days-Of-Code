@@ -504,3 +504,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** Well, I think I am getting used with this project :) even though I have still work to do!
 
 **Link to Work:** [Random-Quote-Generator](https://github.com/tdimnet/Random-Quote-Generator)
+
+
+### Day 57: March 6. Monday
+
+**Today's Progress:** Refactor the function in order to fit the requirements. The tags for the quotes are now displayed on the screen.
+
+**Thoughts:** I have one last thing to do and then the project will be done!
+
+**Link to Work:** [Random-Quote-Generator](https://github.com/tdimnet/Random-Quote-Generator)
