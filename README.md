@@ -513,3 +513,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** I have one last thing to do and then the project will be done!
 
 **Link to Work:** [Random-Quote-Generator](https://github.com/tdimnet/Random-Quote-Generator)
+
+
+### Day 58: March 7. Tuesday
+
+**Today's Progress:** Made the latest modifications before submitting the first full stack JavaScript Techdegree project.
+
+**Thoughts:** And one project done!
+
+**Link to Work:** [Random-Quote-Generator](https://github.com/tdimnet/Random-Quote-Generator)
