@@ -522,3 +522,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** And one project done!
 
 **Link to Work:** [Random-Quote-Generator](https://github.com/tdimnet/Random-Quote-Generator)
+
+
+### Day 59: March 8. Wednesday
+
+**Today's Progress:** Start the new Treehouse's project today and start by analyzing the work I have to make it work.
+
+**Thoughts:** Well there are not a lot of things to do to make this project work. But I have no clue how I can make it well ^^.
+
+**Link to Work:** [Pagination And Content Filter](https://github.com/tdimnet/Pagination-And-Content-Filter)
