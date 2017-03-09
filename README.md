@@ -531,3 +531,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** Well there are not a lot of things to do to make this project work. But I have no clue how I can make it well ^^.
 
 **Link to Work:** [Pagination And Content Filter](https://github.com/tdimnet/Pagination-And-Content-Filter)
+
+
+### Day 60: March 9. Thursday
+
+**Today's Progress:** Create constant's values which keeps my code clear and visible. Adding the search feature within the DOM and start creating the function which will search for a name according to the input value.
+
+**Thoughts:** I learned this morning how const and let elements work and I start using them. I am trying to not work with var elements anymore. For now, I am now feeling frustrated!
+
+**Link to Work:** [Pagination And Content Filter](https://github.com/tdimnet/Pagination-And-Content-Filter)
