@@ -540,3 +540,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** I learned this morning how const and let elements work and I start using them. I am trying to not work with var elements anymore. For now, I am now feeling frustrated!
 
 **Link to Work:** [Pagination And Content Filter](https://github.com/tdimnet/Pagination-And-Content-Filter)
+
+
+### Day 61: March 11. Saturday
+
+**Today's Progress:** Create the search function which loops inside the array of students and give me as a result the student-item container. I need to remove the other elements from the DOM now.
+
+**Thoughts:** Well, I worked without an internet connection and I made my function work! Pretty cool!
+
+**Link to Work:** [Pagination And Content Filter](https://github.com/tdimnet/Pagination-And-Content-Filter)
