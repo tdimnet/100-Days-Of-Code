@@ -549,3 +549,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** Well, I worked without an internet connection and I made my function work! Pretty cool!
 
 **Link to Work:** [Pagination And Content Filter](https://github.com/tdimnet/Pagination-And-Content-Filter)
+
+
+### Day 62: March 12. Sunday
+
+**Today's Progress:** Continue working on the search function of the project. However, I have already found some reallt not cool bugs. I think I still have a lot to do with this project.
+
+**Thoughts:** Ok, I am maybe a little frustrated today ^^.
+
+**Link to Work:** [Pagination And Content Filter](https://github.com/tdimnet/Pagination-And-Content-Filter)
