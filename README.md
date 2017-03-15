@@ -558,3 +558,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** Ok, I am maybe a little frustrated today ^^.
 
 **Link to Work:** [Pagination And Content Filter](https://github.com/tdimnet/Pagination-And-Content-Filter)
+
+
+### Day 63: March 15. Wednesday
+
+**Today's Progress:** The search function is now working well and display the error message needed. I start working on the pagination function and I do not know how to do.
+
+**Thoughts:** I've worked during the week-end and at the beginning of the week but I have not charged my modifications. For now, I do not how to make the pagination function ^^'.
+
+**Link to Work:** [Pagination And Content Filter](https://github.com/tdimnet/Pagination-And-Content-Filter)
