@@ -567,3 +567,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** I've worked during the week-end and at the beginning of the week but I have not charged my modifications. For now, I do not how to make the pagination function ^^'.
 
 **Link to Work:** [Pagination And Content Filter](https://github.com/tdimnet/Pagination-And-Content-Filter)
+
+
+### Day 64: March 16. Thursday
+
+**Today's Progress:** Add a new branch for the pagination function and create the first features: one which returns the total number of pages and the other which appends them to the DOM
+
+**Thoughts:** I start understanding how I have to manage this function to work. However, I still have some interrogations with this feature :).
+
+**Link to Work:** [Pagination And Content Filter](https://github.com/tdimnet/Pagination-And-Content-Filter)
