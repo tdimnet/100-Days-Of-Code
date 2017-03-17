@@ -576,3 +576,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** I start understanding how I have to manage this function to work. However, I still have some interrogations with this feature :).
 
 **Link to Work:** [Pagination And Content Filter](https://github.com/tdimnet/Pagination-And-Content-Filter)
+
+
+### Day 65: March 17. Friday
+
+**Today's Progress:** Add new features to the pagination function and add a displayResults function which shows the students inside their current page.
+
+**Thoughts:** It seems that both functions quoted below work well. However, I think I will need to refactor my code a bit in order to DRY my code.
+
+**Link to Work:** [Pagination And Content Filter](https://github.com/tdimnet/Pagination-And-Content-Filter)
