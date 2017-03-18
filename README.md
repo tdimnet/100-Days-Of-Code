@@ -585,3 +585,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** It seems that both functions quoted below work well. However, I think I will need to refactor my code a bit in order to DRY my code.
 
 **Link to Work:** [Pagination And Content Filter](https://github.com/tdimnet/Pagination-And-Content-Filter)
+
+
+### Day 66: March 18. Saturday
+
+**Today's Progress:** Merge the two branches created and the two functions into a same app.js function. Start refactoring my code.
+
+**Thoughts:** I am know tracking bugs and refactoring my code. I am not now entirely satisfy with my work, I think I still have small improvements to do.
+
+**Link to Work:** [Pagination And Content Filter](https://github.com/tdimnet/Pagination-And-Content-Filter)
