@@ -603,3 +603,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** This project was quite interesting so far and it has really made my JavaScript worked! I think I will submit it on Wednesday :).
 
 **Link to Work:** [Pagination And Content Filter](https://github.com/tdimnet/Pagination-And-Content-Filter)
+
+
+### Day 68: March 20. Monday
+
+**Today's Progress:** Refactor my code and clean stuff. The project is ready to be submitted!
+
+**Thoughts:** For this time, I am in advance I guess. However I am going to start the next project tomorrow or the day after tomorrow. Well cool :).
+
+**Link to Work:** [Pagination And Content Filter](https://github.com/tdimnet/Pagination-And-Content-Filter)
