@@ -612,3 +612,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** For this time, I am in advance I guess. However I am going to start the next project tomorrow or the day after tomorrow. Well cool :).
 
 **Link to Work:** [Pagination And Content Filter](https://github.com/tdimnet/Pagination-And-Content-Filter)
+
+
+### Day 69: March 21. Tuesday
+
+**Today's Progress:** Update my portfolio by adding the new project done with treehouse. Also took time to review my code.
+
+**Thoughts:** Tomorrow = next project + something new + lot of fun!
+
+**Link to Work:** [Online Portfolio](https://github.com/tdimnet/tdimnet.github.io)
