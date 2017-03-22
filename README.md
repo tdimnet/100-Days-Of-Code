@@ -598,7 +598,7 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 
 ### Day 67: March 19. Sunday
 
-**Today's Progress:** Both features of the project are working well. The project is almost finished and I only need to refactore my code in order to be completely satisfy :).
+**Today's Progress:** Both features of the project are working well. The project is almost finished and I only need to refactor my code in order to be completely satisfy :).
 
 **Thoughts:** This project was quite interesting so far and it has really made my JavaScript worked! I think I will submit it on Wednesday :).
 
@@ -621,3 +621,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** Tomorrow = next project + something new + lot of fun!
 
 **Link to Work:** [Online Portfolio](https://github.com/tdimnet/tdimnet.github.io)
+
+
+### Day 70: March 22. Wednesday
+
+**Today's Progress:** Start the treehouse's next project by creating the new repository and the files needed and start planning my work.
+
+**Thoughts:** Happy to begin a new project :).
+
+**Link to Work:** [Build an Interactive Form](https://github.com/tdimnet/Build-an-Interactive-Form)
