@@ -630,3 +630,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** Happy to begin a new project :).
 
 **Link to Work:** [Build an Interactive Form](https://github.com/tdimnet/Build-an-Interactive-Form)
+
+
+### Day 71: March 23. Thursday
+
+**Today's Progress:** Add two new functions, one which adds the job role when "other" is selected and the other which add a new select menu when the t-shirt design is choosen.
+
+**Thoughts:** No big difficulties right now: I am trying to have the more reusable and readable code.
+
+**Link to Work:** [Build an Interactive Form](https://github.com/tdimnet/Build-an-Interactive-Form)
