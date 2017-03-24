@@ -634,8 +634,17 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 
 ### Day 71: March 23. Thursday
 
-**Today's Progress:** Add two new functions, one which adds the job role when "other" is selected and the other which add a new select menu when the t-shirt design is choosen.
+**Today's Progress:** Add two new functions, one which adds the job role when "other" is selected and the other which add a new select menu when the t-shirt design is chosen.
 
 **Thoughts:** No big difficulties right now: I am trying to have the more reusable and readable code.
+
+**Link to Work:** [Build an Interactive Form](https://github.com/tdimnet/Build-an-Interactive-Form)
+
+
+### Day 71: March 23. Thursday
+
+**Today's Progress:** Add a new function and an event listener which targets the payment option.
+
+**Thoughts:** Had a hard time figuring out how to work with JS node elements that are added and removed according the option chosen.
 
 **Link to Work:** [Build an Interactive Form](https://github.com/tdimnet/Build-an-Interactive-Form)
