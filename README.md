@@ -641,10 +641,19 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Link to Work:** [Build an Interactive Form](https://github.com/tdimnet/Build-an-Interactive-Form)
 
 
-### Day 71: March 23. Thursday
+### Day 71: March 24. Friday
 
 **Today's Progress:** Add a new function and an event listener which targets the payment option.
 
 **Thoughts:** Had a hard time figuring out how to work with JS node elements that are added and removed according the option chosen.
+
+**Link to Work:** [Build an Interactive Form](https://github.com/tdimnet/Build-an-Interactive-Form)
+
+
+### Day 72: March 27. Monday
+
+**Today's Progress:** Hard time to find a solution with the form. I have some troubles now.
+
+**Thoughts:** A bit tired today but that's ok. I will do it!
 
 **Link to Work:** [Build an Interactive Form](https://github.com/tdimnet/Build-an-Interactive-Form)
