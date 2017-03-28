@@ -657,3 +657,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** A bit tired today but that's ok. I will do it!
 
 **Link to Work:** [Build an Interactive Form](https://github.com/tdimnet/Build-an-Interactive-Form)
+
+
+### Day 73: March 28. Tuesday
+
+**Today's Progress:** Found a solution for the select t-shirts' colors and started implementing the function for the registration.
+
+**Thoughts:** Youhou! I found a solution which works just as expected!
+
+**Link to Work:** [Build an Interactive Form](https://github.com/tdimnet/Build-an-Interactive-Form)
