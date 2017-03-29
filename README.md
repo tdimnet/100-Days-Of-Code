@@ -666,3 +666,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** Youhou! I found a solution which works just as expected!
 
 **Link to Work:** [Build an Interactive Form](https://github.com/tdimnet/Build-an-Interactive-Form)
+
+
+### Day 74: March 29. Wednesday
+
+**Today's Progress:** Worked on the input elements and try to disable multiple elements when an event occurs.
+
+**Thoughts:** Thanks to Treehouse's courses I understand who to deal with this part!
+
+**Link to Work:** [Build an Interactive Form](https://github.com/tdimnet/Build-an-Interactive-Form)
