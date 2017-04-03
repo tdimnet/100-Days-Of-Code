@@ -675,3 +675,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** Thanks to Treehouse's courses I understand who to deal with this part!
 
 **Link to Work:** [Build an Interactive Form](https://github.com/tdimnet/Build-an-Interactive-Form)
+
+
+### Day 75: April 3. Monday
+
+**Today's Progress:** Going further with form validations and start cleaning my code.
+
+**Thoughts:** After a quick break because of work and other stuff, I have only returned to this project today :(. This is baaaaaaaaaaaadddddddd!
+
+**Link to Work:** [Build an Interactive Form](https://github.com/tdimnet/Build-an-Interactive-Form)
