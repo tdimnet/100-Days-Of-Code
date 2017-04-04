@@ -684,3 +684,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** After a quick break because of work and other stuff, I have only returned to this project today :(. This is baaaaaaaaaaaadddddddd!
 
 **Link to Work:** [Build an Interactive Form](https://github.com/tdimnet/Build-an-Interactive-Form)
+
+
+### Day 76: April 4. Tuesday
+
+**Today's Progress:** Went further into the validation forms (the checkboxes for activities registration) and the credit card. I am still a bit lost with the "register for activities".
+
+**Thoughts:** Big day today (more info are coming very soon). But I took my time to work when I went home! 
+
+**Link to Work:** [Build an Interactive Form](https://github.com/tdimnet/Build-an-Interactive-Form)
