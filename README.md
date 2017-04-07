@@ -702,3 +702,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** I did a lot on my project today. However I've still have work to do.
 
 **Link to Work:** [Build an Interactive Form](https://github.com/tdimnet/Build-an-Interactive-Form)
+
+
+### Day 78: April 7. Friday
+
+**Today's Progress:** Add some new verification security services in order to see if the app works as well as expected.
+
+**Thoughts:** I finally worked on what's blocked me. For now, I think I am on the right track.
+
+**Link to Work:** [Build an Interactive Form](https://github.com/tdimnet/Build-an-Interactive-Form)
