@@ -711,3 +711,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** I finally worked on what's blocked me. For now, I think I am on the right track.
 
 **Link to Work:** [Build an Interactive Form](https://github.com/tdimnet/Build-an-Interactive-Form)
+
+
+### Day 79: April 9. Sunday
+
+**Today's Progress:** Finish adding new features and start refactoring the code.
+
+**Thoughts:** The project is now almost done :). I have only refactoring work to do now :).
+
+**Link to Work:** [Build an Interactive Form](https://github.com/tdimnet/Build-an-Interactive-Form)
