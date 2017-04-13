@@ -738,3 +738,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** If I could share gif on GitHub, I will definitely do this!
 
 **Link to Work:** [Build an Interactive Form](https://github.com/tdimnet/Build-an-Interactive-Form)
+
+
+### Day 82: April 13. Thursday
+
+**Today's Progress:** Refactoring, refactoring, refactoring everywhere! Almost add some return values (boolean) in order to complete the final statements.
+
+**Thoughts:** I can wait this project to be completed. I hope it'll be on Sunday or Monday.
+
+**Link to Work:** [Build an Interactive Form](https://github.com/tdimnet/Build-an-Interactive-Form)
