@@ -747,3 +747,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** I can wait this project to be completed. I hope it'll be on Sunday or Monday.
 
 **Link to Work:** [Build an Interactive Form](https://github.com/tdimnet/Build-an-Interactive-Form)
+
+
+### Day 82: April 14. Friday
+
+**Today's Progress:** Finish implementing & refactoring functions.
+
+**Thoughts:** Almost done :)
+
+**Link to Work:** [Build an Interactive Form](https://github.com/tdimnet/Build-an-Interactive-Form)
