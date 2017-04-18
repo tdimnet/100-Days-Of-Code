@@ -774,3 +774,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** One more project done! Good to go, Folks!
 
 **Link to Work:** [Build an Interactive Form](https://github.com/tdimnet/Build-an-Interactive-Form)
+
+
+### Day 85: April 18. Tuesday
+
+**Today's Progress:** Start the project by creating the files needed and start implementing the first scripts of code.
+
+**Thoughts:** This project is frightening me: there is a lot of things that I do not understand yet ^^.
+
+**Link to Work:** [Tic Tac Toe](https://github.com/tdimnet/Tic-Tac-Toe)
