@@ -783,3 +783,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** This project is frightening me: there is a lot of things that I do not understand yet ^^.
 
 **Link to Work:** [Tic Tac Toe](https://github.com/tdimnet/Tic-Tac-Toe)
+
+
+### Day 86: April 19. Wednesday
+
+**Today's Progress:** Adding some new event listeners and start planning the project with a new script file.
+
+**Thoughts:** For now, I still do not know how I am going to manage this project to work.
+
+**Link to Work:** [Tic Tac Toe](https://github.com/tdimnet/Tic-Tac-Toe)
