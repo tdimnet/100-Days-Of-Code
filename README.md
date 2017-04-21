@@ -792,3 +792,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** For now, I still do not know how I am going to manage this project to work.
 
 **Link to Work:** [Tic Tac Toe](https://github.com/tdimnet/Tic-Tac-Toe)
+
+
+### Day 87: April 21. Friday
+
+**Today's Progress:** Basic structure is now in place. I have triggered some user events however I have still some issues.
+
+**Thoughts:** I am finally starting getting an idea of how I have to manage this project.
+
+**Link to Work:** [Tic Tac Toe](https://github.com/tdimnet/Tic-Tac-Toe)
