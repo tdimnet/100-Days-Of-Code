@@ -801,3 +801,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** I am finally starting getting an idea of how I have to manage this project.
 
 **Link to Work:** [Tic Tac Toe](https://github.com/tdimnet/Tic-Tac-Toe)
+
+
+### Day 88: April 22. Sunday
+
+**Today's Progress:** Add hovering and clicking features. Can now start adding winning situations function!
+
+**Thoughts:** Whooo, I worked pretty quickly today :).
+
+**Link to Work:** [Tic Tac Toe](https://github.com/tdimnet/Tic-Tac-Toe)
