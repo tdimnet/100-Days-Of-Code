@@ -810,3 +810,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** Whooo, I worked pretty quickly today :).
 
 **Link to Work:** [Tic Tac Toe](https://github.com/tdimnet/Tic-Tac-Toe)
+
+
+### Day 89: April 25. Tuesday
+
+**Today's Progress:** Refactor my code a bit and start working on implementing the winning situations for the game.
+
+**Thoughts:** Well I am blocked and I don't know how I can manage the situation..
+
+**Link to Work:** [Tic Tac Toe](https://github.com/tdimnet/Tic-Tac-Toe)
