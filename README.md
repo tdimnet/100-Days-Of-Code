@@ -814,8 +814,8 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 
 ### Day 89: April 25. Tuesday
 
-**Today's Progress:** Refactor my code a bit and start working on implementing the winning situations for the game.
+**Today's Progress:** Start a new project before solving the situation of the previous one: building a gallery with the spotify API. I've made some really great progress.
 
-**Thoughts:** Well I am blocked and I don't know how I can manage the situation..
+**Thoughts:** I think I understand how get request with API works :)
 
-**Link to Work:** [Tic Tac Toe](https://github.com/tdimnet/Tic-Tac-Toe)
+**Link to Work:** [Use a Public API to Build a Search App](https://github.com/tdimnet/Use-a-Public-API-to-Build-a-Search-App)
