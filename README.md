@@ -819,3 +819,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** I think I understand how get request with API works :)
 
 **Link to Work:** [Use a Public API to Build a Search App](https://github.com/tdimnet/Use-a-Public-API-to-Build-a-Search-App)
+
+
+### Day 91: April 27. Thursday
+
+**Today's Progress:** Continue building the second AJAX Request, almost done with it.
+
+**Thoughts:** I started learning node.js in order to create a content scrapper. That's cool!
+
+**Link to Work:** [Use a Public API to Build a Search App](https://github.com/tdimnet/Use-a-Public-API-to-Build-a-Search-App)
