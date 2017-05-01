@@ -828,3 +828,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** I started learning node.js in order to create a content scrapper. That's cool!
 
 **Link to Work:** [Use a Public API to Build a Search App](https://github.com/tdimnet/Use-a-Public-API-to-Build-a-Search-App)
+
+
+### Day 92: May 1. Monday
+
+**Today's Progress:** Start adding the new elements to display for the second AJAX Request.
+
+**Thoughts:** Nothing, everything is cool :).
+
+**Link to Work:** [Use a Public API to Build a Search App](https://github.com/tdimnet/Use-a-Public-API-to-Build-a-Search-App)
