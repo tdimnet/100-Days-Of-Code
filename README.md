@@ -837,3 +837,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** Nothing, everything is cool :).
 
 **Link to Work:** [Use a Public API to Build a Search App](https://github.com/tdimnet/Use-a-Public-API-to-Build-a-Search-App)
+
+
+### Day 93: May 2. Tuesday
+
+**Today's Progress:**: start planning the project and doing some researchs about how to build a web content scrapper.
+
+**Thoughts:**: This is a really new stuff for me and I am very excited about this project :)
+
+**Link to Work:** [Build a Content Scraper](https://github.com/tdimnet/Build-a-Content-Scraper)
