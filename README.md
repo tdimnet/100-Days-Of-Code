@@ -846,3 +846,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:**: This is a really new stuff for me and I am very excited about this project :)
 
 **Link to Work:** [Build a Content Scraper](https://github.com/tdimnet/Build-a-Content-Scraper)
+
+
+### Day 94: May 4. Thursday
+
+**Today's Progress:**: Almost finish with the implentation of the second API call and its result displayed on the screen.
+
+**Thoughts:**: I think I am going to get focus on the node project tomorrow evening.
+
+**Link to Work:** [Build a Content Scraper](https://github.com/tdimnet/Build-a-Content-Scraper)
