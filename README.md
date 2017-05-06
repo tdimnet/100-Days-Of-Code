@@ -855,3 +855,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:**: I think I am going to get focus on the node project tomorrow evening.
 
 **Link to Work:** [Build a Content Scraper](https://github.com/tdimnet/Build-a-Content-Scraper)
+
+
+### Day 94: May 4. Saturday
+
+**Today's Progress:**: Create the first script of the project which create a new folder if needed and read a lot of node.js doc
+
+**Thoughts:**: I was a bit lost of how and where I should start off my project and I have my some progress and that's pretty neet :)
+
+**Link to Work:** [Build a Content Scraper](https://github.com/tdimnet/Build-a-Content-Scraper)
