@@ -830,7 +830,7 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Link to Work:** [Use a Public API to Build a Search App](https://github.com/tdimnet/Use-a-Public-API-to-Build-a-Search-App)
 
 
-### Day 92: May 1. Monday
+### Day 92: May 2. Monday
 
 **Today's Progress:** Start adding the new elements to display for the second AJAX Request.
 
@@ -839,7 +839,7 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Link to Work:** [Use a Public API to Build a Search App](https://github.com/tdimnet/Use-a-Public-API-to-Build-a-Search-App)
 
 
-### Day 93: May 2. Tuesday
+### Day 93: May 3. Tuesday
 
 **Today's Progress:**: start planning the project and doing some researchs about how to build a web content scrapper.
 
@@ -848,7 +848,7 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Link to Work:** [Build a Content Scraper](https://github.com/tdimnet/Build-a-Content-Scraper)
 
 
-### Day 94: May 4. Thursday
+### Day 94: May 5. Thursday
 
 **Today's Progress:**: Almost finish with the implentation of the second API call and its result displayed on the screen.
 
@@ -857,10 +857,19 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Link to Work:** [Build a Content Scraper](https://github.com/tdimnet/Build-a-Content-Scraper)
 
 
-### Day 94: May 4. Saturday
+### Day 94: May 6. Saturday
 
 **Today's Progress:**: Create the first script of the project which create a new folder if needed and read a lot of node.js doc
 
 **Thoughts:**: I was a bit lost of how and where I should start off my project and I have my some progress and that's pretty neet :)
+
+**Link to Work:** [Build a Content Scraper](https://github.com/tdimnet/Build-a-Content-Scraper)
+
+
+### Day 95: May 7. Sunday
+
+**Today's Progress:**: Continue programming the scraper in order to get the information needed. For now it just gets me the link for the homepage.
+
+**Thoughts:**: I have some issues with reading the docs of the program and to completely understand its meaning.
 
 **Link to Work:** [Build a Content Scraper](https://github.com/tdimnet/Build-a-Content-Scraper)
