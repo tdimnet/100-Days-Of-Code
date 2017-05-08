@@ -873,3 +873,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:**: I have some issues with reading the docs of the program and to completely understand its meaning.
 
 **Link to Work:** [Build a Content Scraper](https://github.com/tdimnet/Build-a-Content-Scraper)
+
+
+### Day 96: May 8. Monday
+
+**Today's Progress:**: Create a new callback function which recover for now only one t-shirt info (title, url and price).
+
+**Thoughts:**: I am starting to understand how the scraper-it package works. However I am still gropping with it.
+
+**Link to Work:** [Build a Content Scraper](https://github.com/tdimnet/Build-a-Content-Scraper)
