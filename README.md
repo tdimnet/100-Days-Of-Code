@@ -882,3 +882,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:**: I am starting to understand how the scraper-it package works. However I am still gropping with it.
 
 **Link to Work:** [Build a Content Scraper](https://github.com/tdimnet/Build-a-Content-Scraper)
+
+
+### Day 96: May 9. Tuesday
+
+**Today's Progress:**: Ok, so now I have my data which are comming from the right url. However I am having trouble when sorting my data in order to put it into a CSV file..
+
+**Thoughts:**: I have made some great progress this week-end but I am blocked for now :/
+
+**Link to Work:** [Build a Content Scraper](https://github.com/tdimnet/Build-a-Content-Scraper)
