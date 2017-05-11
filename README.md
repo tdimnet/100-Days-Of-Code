@@ -891,3 +891,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:**: I have made some great progress this week-end but I am blocked for now :/
 
 **Link to Work:** [Build a Content Scraper](https://github.com/tdimnet/Build-a-Content-Scraper)
+
+
+### Day 97: May 11. Thursday
+
+**Today's Progress:** Started refactoring the scraper in order to do a better work & and create a new file.
+
+**Thoughts:** I worked with promises today with the .then() method.
+
+**Link to Work:** [Build a Content Scraper](https://github.com/tdimnet/Build-a-Content-Scraper)
