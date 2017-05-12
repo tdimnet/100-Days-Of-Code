@@ -900,3 +900,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** I worked with promises today with the .then() method.
 
 **Link to Work:** [Build a Content Scraper](https://github.com/tdimnet/Build-a-Content-Scraper)
+
+
+### Day 98: May 12. Friday
+
+**Today's Progress:** Made some really good progress today. I tryed a new library which works fine. I am now fetching the data and put them inside a csv file.
+
+**Thoughts:** Well after a lot of headaches I finally went some great steps.
+
+**Link to Work:** [Build a Content Scraper](https://github.com/tdimnet/Build-a-Content-Scraper)
