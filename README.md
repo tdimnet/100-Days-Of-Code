@@ -909,3 +909,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** Well after a lot of headaches I finally went some great steps.
 
 **Link to Work:** [Build a Content Scraper](https://github.com/tdimnet/Build-a-Content-Scraper)
+
+
+### Day 99: May 13. Saturday
+
+**Today's Progress:** Continue building the scraper by adding a error message when something wrong occurs.
+
+**Thoughts:** I have a few things to finish before submitting this project and starting the new one: a project with express :).
+
+**Link to Work:** [Build a Content Scraper](https://github.com/tdimnet/Build-a-Content-Scraper)
