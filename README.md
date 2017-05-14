@@ -918,3 +918,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** I have a few things to finish before submitting this project and starting the new one: a project with express :).
 
 **Link to Work:** [Build a Content Scraper](https://github.com/tdimnet/Build-a-Content-Scraper)
+
+
+### Day 100: May 14. Sunday
+
+**Today's Progress:** Display a custom error message and write a npm start command.
+
+**Thoughts:** This project is going to be done on Monday or Tuesday. I will start a new project with express very soon.
+
+**Link to Work:** [Build a Content Scraper](https://github.com/tdimnet/Build-a-Content-Scraper)
