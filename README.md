@@ -927,3 +927,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** This project is going to be done on Monday or Tuesday. I will start a new project with express very soon.
 
 **Link to Work:** [Build a Content Scraper](https://github.com/tdimnet/Build-a-Content-Scraper)
+
+
+### Day 101: May 15. Monday
+
+**Today's Progress:** Add a script which creates a log file when an error occurs. However there is still an error when the file already exists.
+
+**Thoughts:** This project will be done tomorrow :).
+
+**Link to Work:** [Build a Content Scraper](https://github.com/tdimnet/Build-a-Content-Scraper)
