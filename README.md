@@ -936,3 +936,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** This project will be done tomorrow :).
 
 **Link to Work:** [Build a Content Scraper](https://github.com/tdimnet/Build-a-Content-Scraper)
+
+
+### Day 102: May 16. Tuesday
+
+**Today's Progress:** Create the folder, set up the project and start dig into the functionnalities to build.
+
+**Thoughts:** I am just starting this project and studying the doc. It seems that I have a lot to do to finish this one :).
+
+**Link to Work:** [Build a Twitter Interface](https://github.com/tdimnet/Build-a-Twitter-Interface)
