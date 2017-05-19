@@ -954,3 +954,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** I am working on this easy project before getting started with the twitter interface project :).
 
 **Link to Work:** [Using Gulp to Build a Front End Website](https://github.com/tdimnet/Using-Gulp-to-Build-a-Front-End-Website)
+
+
+### Day 104: May 19. Friday
+
+**Today's Progress:** Continued adding scripts in order to make the gulp project to work.
+
+**Thoughts:** Happy :)
+
+**Link to Work:** [Using Gulp to Build a Front End Website](https://github.com/tdimnet/Using-Gulp-to-Build-a-Front-End-Website)
