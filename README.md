@@ -963,3 +963,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** Happy :)
 
 **Link to Work:** [Using Gulp to Build a Front End Website](https://github.com/tdimnet/Using-Gulp-to-Build-a-Front-End-Website)
+
+
+### Day 105: May 21. Sunday
+
+**Today's Progress:** Add new gulp commands (clean the files, run all the tasks in the same line)
+
+**Thoughts:** I don't have a lot of issues when working on this project :)
+
+**Link to Work:** [Using Gulp to Build a Front End Website](https://github.com/tdimnet/Using-Gulp-to-Build-a-Front-End-Website)
