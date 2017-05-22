@@ -972,3 +972,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** I don't have a lot of issues when working on this project :)
 
 **Link to Work:** [Using Gulp to Build a Front End Website](https://github.com/tdimnet/Using-Gulp-to-Build-a-Front-End-Website)
+
+
+### Day 106: May 22. Monday
+
+**Today's Progress:** Fix the bug with the image and add a new workflow for building this project.
+
+**Thoughts:** I am almost done with it :)
+
+**Link to Work:** [Using Gulp to Build a Front End Website](https://github.com/tdimnet/Using-Gulp-to-Build-a-Front-End-Website)
