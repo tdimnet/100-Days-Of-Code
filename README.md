@@ -990,3 +990,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** Just few things to be done before starting the express project.
 
 **Link to Work:** [Using Gulp to Build a Front End Website](https://github.com/tdimnet/Using-Gulp-to-Build-a-Front-End-Website)
+
+
+### Day 107: May 25. Thursday
+
+**Today's Progress:** Prepared the projet and separated the files within jade templates.
+
+**Thoughts:** I need to see how to work with an API with node.
+
+**Link to Work:** [Build a Twitter Interface](https://github.com/tdimnet/Build-a-Twitter-Interface)
