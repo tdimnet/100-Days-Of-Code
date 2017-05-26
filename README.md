@@ -999,3 +999,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** I need to see how to work with an API with node.
 
 **Link to Work:** [Build a Twitter Interface](https://github.com/tdimnet/Build-a-Twitter-Interface)
+
+
+### Day 108: May 26. Friday
+
+**Today's Progress:** Finished dividing the project into partials. I can now start working with the Twitter API.
+
+**Thoughts:** The hard part is comming ..
+
+**Link to Work:** [Build a Twitter Interface](https://github.com/tdimnet/Build-a-Twitter-Interface)
