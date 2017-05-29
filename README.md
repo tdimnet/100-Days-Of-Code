@@ -1008,3 +1008,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** The hard part is comming ..
 
 **Link to Work:** [Build a Twitter Interface](https://github.com/tdimnet/Build-a-Twitter-Interface)
+
+
+### Day 108: May 29. Monday
+
+**Today's Progress:** Configure the project to work with the twitter api. I am now retrieving a list of data which are comming from twitter.
+
+**Thoughts:** For now, I understand quite well what I am doing :)
+
+**Link to Work:** [Build a Twitter Interface](https://github.com/tdimnet/Build-a-Twitter-Interface)
