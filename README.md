@@ -1026,3 +1026,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** :)
 
 **Link to Work:** [Build a Twitter Interface](https://github.com/tdimnet/Build-a-Twitter-Interface)
+
+
+### Day 110: May 2. Friday
+
+**Today's Progress:** Refactored my code in order to the twit npm module and start constructing an object I will use.
+
+**Thoughts:** :)
+
+**Link to Work:** [Build a Twitter Interface](https://github.com/tdimnet/Build-a-Twitter-Interface)
