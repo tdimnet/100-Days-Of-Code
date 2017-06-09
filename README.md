@@ -1028,7 +1028,7 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Link to Work:** [Build a Twitter Interface](https://github.com/tdimnet/Build-a-Twitter-Interface)
 
 
-### Day 110: May 2. Friday
+### Day 110: June 2. Friday
 
 **Today's Progress:** Refactored my code in order to the twit npm module and start constructing an object I will use.
 
@@ -1037,10 +1037,19 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Link to Work:** [Build a Twitter Interface](https://github.com/tdimnet/Build-a-Twitter-Interface)
 
 
-### Day 110: May 5. Monday
+### Day 110: June 5. Monday
 
 **Today's Progress:** Add fetch method which returns the data.
 
 **Thoughts:** I saw some changes with the Techdegree's projects. I think I am going to prepare some others.
+
+**Link to Work:** [Build a Twitter Interface](https://github.com/tdimnet/Build-a-Twitter-Interface)
+
+
+### Day 111: May 9. Friday
+
+**Today's Progress:** Worked with the api for building a employee directory.
+
+**Thoughts:** There is some things that I do not understand about how it works.
 
 **Link to Work:** [Build a Twitter Interface](https://github.com/tdimnet/Build-a-Twitter-Interface)
