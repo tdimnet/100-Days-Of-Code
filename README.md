@@ -1062,3 +1062,14 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** I finally made it through and I already started the new one.
 
 **Link to Work:** [Tic Tac Toe](https://github.com/tdimnet/Tic-Tac-Toe)
+
+
+### Day 113: June 18. Sunday
+
+**Today's Progress:** A new fifth project has been revealed few weeks ago even though I have been working on the previous one. I started AJAX requests with jQuery and I am currently displaying the list of employees needed.
+
+**Thoughts:** I think this project will be not very complicated. I have already made some great progress in only a day.
+
+**Link to Work:** [Use a Public API to Create an Employee Directory
+
+](https://github.com/tdimnet/Use-a-Public-API-to-Create-an-Employee-Directory)
