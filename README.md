@@ -1046,10 +1046,19 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Link to Work:** [Build a Twitter Interface](https://github.com/tdimnet/Build-a-Twitter-Interface)
 
 
-### Day 111: May 9. Friday
+### Day 111: June 9. Friday
 
 **Today's Progress:** Worked with the api for building a employee directory.
 
 **Thoughts:** There is some things that I do not understand about how it works.
 
 **Link to Work:** [Build a Twitter Interface](https://github.com/tdimnet/Build-a-Twitter-Interface)
+
+
+### Day 112: June 17. Saturday
+
+**Today's Progress:** Finished the project by implementing the module pattern. The project has been submitted on Saturday night.
+
+**Thoughts:** I finally made it through and I already started the new one.
+
+**Link to Work:** [Tic Tac Toe](https://github.com/tdimnet/Tic-Tac-Toe)
