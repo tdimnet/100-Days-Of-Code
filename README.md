@@ -1070,6 +1070,13 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 
 **Thoughts:** I think this project will be not very complicated. I have already made some great progress in only a day.
 
-**Link to Work:** [Use a Public API to Create an Employee Directory
+**Link to Work:** [Use a Public API to Create an Employee Directory](https://github.com/tdimnet/Use-a-Public-API-to-Create-an-Employee-Directory)
 
-](https://github.com/tdimnet/Use-a-Public-API-to-Create-an-Employee-Directory)
+
+### Day 114: June 19. Monday
+
+**Today's Progress:** Refactored the code and add the second AJAX request. The gallery of employees is now displaying as expected and the binding of the click event for the second Ajax request is working as well.
+
+**Thoughts:** I have found some great ressources yesterday about how well structured and well designed code especially for Ajax requests. I need to implement them in order to have a better readability of my code.
+
+**Link to Work:** [Use a Public API to Create an Employee Directory](https://github.com/tdimnet/Use-a-Public-API-to-Create-an-Employee-Directory)
