@@ -1080,3 +1080,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** I have found some great ressources yesterday about how well structured and well designed code especially for Ajax requests. I need to implement them in order to have a better readability of my code.
 
 **Link to Work:** [Use a Public API to Create an Employee Directory](https://github.com/tdimnet/Use-a-Public-API-to-Create-an-Employee-Directory)
+
+
+### Day 115: June 22. Thursday
+
+**Today's Progress:** Refactored my code, styled the overlay and started displaying the employees info.
+
+**Thoughts:** I am thinking at the moment of ways to have the code the more reusable :).
+
+**Link to Work:** [Use a Public API to Create an Employee Directory](https://github.com/tdimnet/Use-a-Public-API-to-Create-an-Employee-Directory)
