@@ -1089,3 +1089,12 @@ Here is the log of my 100 Days Of Code - Started on January 3rd 2017
 **Thoughts:** I am thinking at the moment of ways to have the code the more reusable :).
 
 **Link to Work:** [Use a Public API to Create an Employee Directory](https://github.com/tdimnet/Use-a-Public-API-to-Create-an-Employee-Directory)
+
+
+### Day 116: June 24. Sunday
+
+**Today's Progress:** Continued building the application by working on the second API call and how it was rendered.
+
+**Thoughts:** This project is nearly complete. I think I am going to submit it very soon :).
+
+**Link to Work:** [Use a Public API to Create an Employee Directory](https://github.com/tdimnet/Use-a-Public-API-to-Create-an-Employee-Directory)
